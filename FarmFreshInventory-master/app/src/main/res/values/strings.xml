@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Farm Fresh</string>
+
+    <string name="product_name">Product Name</string>
+
+    <string name="product_name_hint">Enter Product Name</string>
+
+</resources>
